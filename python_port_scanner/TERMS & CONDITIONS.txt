@@ -1,0 +1,22 @@
+*1. Acceptance of Terms:*
+   By using the *Error Python Port Scanner* (hereinafter referred to as "the Tool"), you agree to the following terms and conditions. If you do not accept these terms, please refrain from using the Tool.
+
+*2. Ethical Use and Permissions:*
+   - The Tool must be used *ethically and legally*. You may only scan devices, networks, or systems for which you have explicit authorization.
+   - Unauthorized port scanning of external systems without permission is illegal and may result in criminal charges.
+
+*3. User Responsibility:*
+   - You are fully responsible for how the Tool is used. Any misuse, including scanning without permission, could lead to legal consequences.
+   - The developers (Team "Error") assume no liability for damage, misuse, or legal issues that arise from the use of this Tool.
+
+*4. Compliance with Legal Regulations:*
+   - The Tool must be used in compliance with all applicable laws regarding cybersecurity and privacy. Unauthorized use may violate laws such as the Computer Fraud and Abuse Act (CFAA) or the General Data Protection Regulation (GDPR).
+
+*5. No Warranty or Support:*
+   - The Tool is provided "as-is" without any warranty or guarantee of its performance or accuracy. The developers (Team "Error") do not provide support for issues that arise from its use.
+   - The developers are not responsible for any damages, losses, or system malfunctions caused by using the Tool.
+
+*6. Termination of Use:*
+   - The developers (Team "Error") reserve the right to terminate your access to the Tool if there is suspicion of illegal or unethical use.
+
+By using this Tool, you agree to these terms and confirm that you will use it responsibly and lawfully.
